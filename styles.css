@@ -41,3 +41,10 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+h1:hover, h2:hover {
+    background-color: green;
+    color: rgb(255, 255, 165);
+    transition: ease-in .3s;
+
+}
